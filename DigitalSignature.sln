@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignature", "DigitalSignature\DigitalSignature.csproj", "{3AB20613-1F61-431F-8DBF-C5BE1FC96586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalSignatureValidation", "DigitalSignatureValidation\DigitalSignatureValidation.csproj", "{FCB7DF09-1D72-4D4E-B19D-50255B02D786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB20613-1F61-431F-8DBF-C5BE1FC96586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB20613-1F61-431F-8DBF-C5BE1FC96586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB20613-1F61-431F-8DBF-C5BE1FC96586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB20613-1F61-431F-8DBF-C5BE1FC96586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB7DF09-1D72-4D4E-B19D-50255B02D786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB7DF09-1D72-4D4E-B19D-50255B02D786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB7DF09-1D72-4D4E-B19D-50255B02D786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB7DF09-1D72-4D4E-B19D-50255B02D786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1634AE86-87BD-412F-A7CC-F4AD308E7269}
+	EndGlobalSection
+EndGlobal
